@@ -48,7 +48,7 @@ If not I will guide you to install the bot.
 ## Youtube
 Find me on Youtube : https://www.youtube.com/channel/UC98Yc8dJXDg6bW2ZtW4Sdcg
 
-TUTORIAL Video : soon 
+TUTORIAL Video : https://youtu.be/_QlT1afxFoA
 
 Watch this video for more Information & Demo 
 
