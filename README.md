@@ -17,6 +17,8 @@ A CMC Trending bot to make your Token Trending on Coinmarketcap Using Python Sof
   <a href="#Images">Images</a>
 </p>
 
+<p align="center"><a href="https://youtu.be/_QlT1afxFoA" target="_blank"><img src="https://github.com/TheLokiDev/Coinmarketcap-Trending-Bot/blob/main/Thumbnail.png?raw=true"></a></p>
+
 ## About
 A CMC Trending bot which makes a Token Trending on Coinmarketcap using Python Software.
 
@@ -58,3 +60,7 @@ For any kind of further assistant kindly DM me on Telegram.
 Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
 
 To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/TheLokiDev_Channel)
+
+## Images
+![CMC Trending Bot](https://github.com/TheLokiDev/Coinmarketcap-Trending-Bot/blob/main/1.png)
+![CMC Trending Config File](https://github.com/TheLokiDev/Coinmarketcap-Trending-Bot/blob/main/2.png)
