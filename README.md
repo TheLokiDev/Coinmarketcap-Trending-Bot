@@ -55,11 +55,12 @@ TUTORIAL Video : https://youtu.be/_QlT1afxFoA
 Watch this video for more Information & Demo 
 
 # Contact
-For any kind of further assistant kindly DM me on Telegram.
+If you are interested and Want to buy it, Feel free to contact me.
 
 Telegram : [@TheLokiDev](https://t.me/TheLokiDev)
 
 To Get Official announcements or Updates Join here : [Telegram Channel](https://t.me/TheLokiDev_Channel)
+
 
 ## Images
 ![CMC Trending Bot](https://github.com/TheLokiDev/Coinmarketcap-Trending-Bot/blob/main/1.png)
